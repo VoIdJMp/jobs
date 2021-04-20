@@ -55,7 +55,7 @@
           </button>
         </div>
         <div>
-          <div class="mt-3 text-center sm:mt-5">
+          <div class="mt-3 sm:mt-5">
             <h3
               id="modal-title"
               class="text-lg leading-6 font-medium text-gray-900"
