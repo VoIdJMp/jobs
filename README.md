@@ -2,7 +2,7 @@
 
 ## Dependencies:
 
-### vue-lazzy-image - библиотка для ленивой загрузки изображение разработаный нашей команде
+### vue-lazzy-image - библиотека для ленивой загрузки изображение, разработанной мной
 
 ## Design cards vacation
 ![image](https://user-images.githubusercontent.com/59548686/115423261-1b3f1a80-a217-11eb-87f4-da0655e4e31e.png)
