@@ -1,5 +1,10 @@
 # jobs
 
+## Dependencies:
+
+###vue-lazzy-image - библиотка для ленивой загрузки изображение разработаный нашей команде
+
+
 ## Build Setup
 
 ```bash
